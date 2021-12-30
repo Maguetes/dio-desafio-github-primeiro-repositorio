@@ -1,0 +1,11 @@
+Como calcular a média da faculdade, no caso, do Centro Universitário Senac - Santo Amaro
+
+Segue o código:
+
+x = float(input())
+y = float(input())
+z = float(input())
+
+media = ((x * 2)/10) + ((y * 2)/10) + ((z * 6)/10)
+
+print(media)

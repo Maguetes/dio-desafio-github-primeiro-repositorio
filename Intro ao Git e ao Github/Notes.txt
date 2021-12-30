@@ -1,0 +1,5 @@
+Buscar melhores didáticas para aprender melhor o versionamento de código.
+
+Usar a documentação oficial do Git/Github e vídeos relacionados para que haja um melhor entendimento sobre o assunto.
+
+Aprender a usar o Git Bash no dia a dia.
